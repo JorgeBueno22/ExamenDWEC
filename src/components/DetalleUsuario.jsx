@@ -9,7 +9,7 @@ export const DetalleUsuario = () => {
 
   return (
     <>
-    <p>HOLA DETALLE USUARIO</p>
+    <p>Hola su usuario es {usuario} y su contraseña es {password}</p>
     </>
   )
 }
